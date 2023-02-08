@@ -1,0 +1,4 @@
+#Wed Feb 08 12:04:55 EST 2023
+base.0=C\:\\Users\\brand\\OneDrive\\Desktop\\code\\Reverse\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
